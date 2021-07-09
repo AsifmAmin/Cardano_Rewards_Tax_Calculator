@@ -21,7 +21,7 @@ print("Select your price history CSV file ")
 DFprice_history = pd.read_csv(askopenfilename(),low_memory=False, # add binance/kucoin CSV file here
                               skiprows=1)  # https://www.cryptodatadownload.com/
 
-whichCurr= input("Write your country valuta symbol name, example, eur, usd ")
+whichCurr= input("Write your country valuta symbol name, example, eur, usd:  ")
 
 
 
@@ -63,7 +63,7 @@ dataframe_df.insert(0,"Epoch",DFrewards['Comment'],True)  # inserting epoch data
 
 # adding two new columns, one for how much usd you got, and second how much you need to tax of it
 dataframe_df['Total USD $'] = dataframe_df['ADA Price']*dataframe_df['Rewards']
-PrecentageToTax = float(input("Write how much you need to tax for cardano rewards. "))
+PrecentageToTax = float(input("Write how much you need to tax for cardano rewards:  "))
 dataframe_df['How much to tax in USD '] = dataframe_df['Total USD $'] * 0.22
 
 # removing seconds from date to match with the URL
