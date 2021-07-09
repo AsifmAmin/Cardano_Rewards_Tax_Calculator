@@ -27,12 +27,15 @@ or download the zip from the green button at the beginning of the repository
 ## 📄 Neccessary files needed to run the program
 
 1. Go to <https://www.cryptodatadownload.com/data> scroll down and choose between Binance or Kucoin,
-and download ADA/USDT minute version. Save the CSV file into the projects folder<br>
-   <img src="https://i.imgur.com/QEFINhu.gif" alt="Download zip" border="0" width="800"><br>
+and download ADA/USDT minute version. Save the CSV file into the projects folder
+   
+   <img src="https://i.imgur.com/QEFINhu.gif"  border="0" width="800">
+   
+   <br>
    
 2. Find your <a href="https://i.imgur.com/ZKrUdyX.png">wallet address</a> and go to <https://pooltool.io/> and enter your address in this search bar<br>
 
-<img src="https://i.imgur.com/JfsJL2V.gif" alt="Download zip" border="0" width="900">
+<img src="https://i.imgur.com/JfsJL2V.gif"  border="0" width="900">
 
 Scroll down to **Export Tool** and choose *Format* CoinTracking.info (CSV), for *Currency* choose US Dollar,
 and for *Periode* you could choose for the year you want to calculate for. Then save this CSV file into the 
