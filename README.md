@@ -29,7 +29,7 @@ or download the zip from the green button at the beginning of the repository
 1. Go to <https://www.cryptodatadownload.com/data> scroll down and choose between Binance or Kucoin,
 and download ADA/USDT minute version. Save the CSV file into the projects folder
 
-<img src="https://i.imgur.com/QEFINhu.gif"  border="0" width="900">   
+<img src="https://i.imgur.com/w03TYqa.gif"  border="0" width="900">   
    
    <br>
    
