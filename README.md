@@ -70,3 +70,9 @@ so here i would write 0.22.
 
 
 ---
+
+
+##Disclaimer 
+
+This calculator does not provide tax, legal, accounting or financial advice. This program and its content are provided for information only, and as such should not be relied upon for tax, legal, accounting or financial advice.
+You should obtain specific professional advice from a professional accountant, tax or legal/financial advisor before you take any action.
